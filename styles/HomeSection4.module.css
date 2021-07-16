@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'Axiforma';
+  src: url('Axifoma/Axifoma/Kastelov\ -\ Axiforma\ Black.otf');
+}
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf');
+}
+.site_section4_intro_heading_text {
+  font-size: 35px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 65px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.site_section4_intro_sub_text {
+  font-size: 18px;
+  font-weight: 400;
+  color: #bcbcbc;
+  line-height: 40px;
+  font-family: 'Axiforma', sans-serif;
+}
+.site_skills {
+  padding: 10px;
+  font-size: 10px;
+  font-weight: 400;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 20px;
+  border: solid 1px #3F3F3F;
+  margin-left: 15px;
+  margin-top: 30px;
+  padding-left: 15px;
+  margin-bottom: 30px;
+  font-family: 'Axiforma', sans-serif;
+}
+.site_section4_card_heading_text {
+  font-size: 25px;
+  font-weight: 700;
+  color: #ffffff;
+  line-height: 65px;
+  font-family: 'Space Grotesk', sans-serif;
+}
+.site_section4_card_sub_text {
+  font-size: 10px;
+  font-weight: 400;
+  color: #bcbcbc;
+  line-height: 40px;
+  font-family: 'Axiforma', sans-serif;
+}
+.site_btn_round {
+  background-color: #ff6b6b;
+  color: #ffffff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  margin-right: -40px;
+  float: right;
+  border: none;
+  margin-top: -10px;
+}
+.site_btn_round2 {
+  background-color: #ff6b6b;
+  color: #ffffff;
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  margin-right: -40px;
+  float: right;
+  border: none;
+  margin-top:35px;
+}
+.site_btn_seeall {
+  font-size: 15px;
+  font-weight: 500;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 20px;
+  border: solid 1px #ffffff;
+  width: 150px;
+  height: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: 'Axiforma', sans-serif;
+}

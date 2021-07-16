@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Axiforma';
+    src: url('Axifoma/Axifoma/Kastelov\ -\ Axiforma\ Black.otf');
+}
+@font-face {
+    font-family: 'Space Grotesk';
+    src: url('Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf');
+}
+.site_section2_intro_heading_text {
+    font-size: 35px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 65px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.site_section2_intro_sub_text {
+    font-size: 18px;
+    font-weight: 400;
+    color: #bcbcbc;
+    line-height: 40px;
+    font-family: 'Axiforma', sans-serif;
+}
+.site_section2_skills_heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 22.97px;
+    padding-top: 20px;
+    font-family: 'Space Grotesk', sans-serif;
+}
+.site_section2_skills_text {
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #bcbcbc;
+    line-height: 35px;
+    font-family: 'Axiforma', sans-serif;
+}
